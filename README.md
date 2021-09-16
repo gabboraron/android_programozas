@@ -1,4 +1,4 @@
-# android programozás
+# android programozás MIT app inventorral (vagy nem)
 
 - UNIX alapú oprendszer, '69ben az AT&T Bell-nél fejlesztve
 - GNU (Not Unix) mozgalom 
@@ -26,3 +26,7 @@ Előfeltételek:
 - JRE7
 - böngésző
 
+## EA2
+anabox install on ubuntu 2021: https://www.how2shout.com/linux/how-to-install-anbox-on-ubuntu-20-04-lts-focal-fossa/anabox install on ubuntuű
+
+[Összeadás](https://github.com/gabboraron/android_programozas/blob/main/EA1.apk)
