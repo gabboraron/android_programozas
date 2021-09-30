@@ -30,3 +30,6 @@ Előfeltételek:
 anabox install on ubuntu 2021: https://www.how2shout.com/linux/how-to-install-anbox-on-ubuntu-20-04-lts-focal-fossa/anabox install on ubuntuű
 
 [Összeadás](https://github.com/gabboraron/android_programozas/blob/main/EA1.apk)
+
+# EA4 - warningok
+[.aia app](https://github.com/gabboraron/android_programozas/blob/main/EA3.aia)
